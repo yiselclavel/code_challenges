@@ -1,4 +1,4 @@
-# code_challenges
+# Code Challenges
 
 Task (froom https://www.qualified.io/)
 
